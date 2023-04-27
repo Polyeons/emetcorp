@@ -1,0 +1,287 @@
+19:03:11 [INFO] Unable to initialize fancy terminal. To fix this on Windows, install the correct Microsoft Visual C++ 2008 Runtime
+19:03:11 [INFO] NOTE: This error is non crucial, and BungeeCord will still function correctly! Do not bug the author about it unless you are still unable to get it working
+19:03:11 [INFO] Enabled BungeeCord version unknown
+19:03:11 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+19:03:11 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+19:03:11 [INFO] Listening websockets on /0.0.0.0:25565
+19:03:12 [INFO] Listening on /127.11.0.1:60263
+19:03:12 [INFO] Server bans.txt changed, it will be reloaded automatically
+19:03:12 [INFO] Reload complete
+19:07:07 [INFO] [LateAlways] <-> InitialHandler has connected
+19:07:07 [INFO] Player 'LateAlways' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+19:07:07 [INFO] Player 'LateAlways' [/127.0.0.1] is using an offline download
+19:07:07 [INFO] [LateAlways] <-> ServerConnector [lobby] has connected
+19:07:27 [INFO] [LateAlways] disconnected with: [Kicked] Flying is not enabled on this server
+19:07:27 [INFO] [LateAlways] -> UpstreamBridge has disconnected
+19:07:27 [INFO] [LateAlways] <-> DownstreamBridge <-> [lobby] has disconnected
+19:28:01 [INFO] Unable to initialize fancy terminal. To fix this on Windows, install the correct Microsoft Visual C++ 2008 Runtime
+19:28:01 [INFO] NOTE: This error is non crucial, and BungeeCord will still function correctly! Do not bug the author about it unless you are still unable to get it working
+19:28:01 [INFO] Enabled BungeeCord version unknown
+19:28:01 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+19:28:01 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+19:28:01 [INFO] Listening websockets on /0.0.0.0:25565
+19:28:01 [INFO] Listening on /127.11.0.1:56069
+19:28:01 [INFO] Server bans.txt changed, it will be reloaded automatically
+19:28:01 [INFO] Reload complete
+19:28:07 [INFO] [feelingBlessed] <-> InitialHandler has connected
+19:28:07 [INFO] Player 'feelingBlessed' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+19:28:07 [INFO] Player 'feelingBlessed' [/127.0.0.1] is using a client at: 
+19:28:07 [INFO] [feelingBlessed] <-> ServerConnector [lobby] has connected
+19:28:16 [INFO] [feelingBlessed] disconnected with: [Kicked] Flying is not enabled on this server
+19:28:16 [INFO] [feelingBlessed] -> UpstreamBridge has disconnected
+19:28:16 [INFO] [feelingBlessed] <-> DownstreamBridge <-> [lobby] has disconnected
+19:28:18 [INFO] [feelingBlessed] <-> InitialHandler has connected
+19:28:18 [INFO] Player 'feelingBlessed' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+19:28:18 [INFO] Player 'feelingBlessed' [/127.0.0.1] is using a client at: 
+19:28:18 [INFO] [feelingBlessed] <-> ServerConnector [lobby] has connected
+19:28:35 [INFO] [feelingBlessed] disconnected with: [Kicked] Flying is not enabled on this server
+19:28:35 [INFO] [feelingBlessed] -> UpstreamBridge has disconnected
+19:28:35 [INFO] [feelingBlessed] <-> DownstreamBridge <-> [lobby] has disconnected
+19:28:49 [INFO] [feelingBlessed] <-> InitialHandler has connected
+19:28:49 [INFO] Player 'feelingBlessed' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+19:28:49 [INFO] Player 'feelingBlessed' [/127.0.0.1] is using a client at: 
+19:28:49 [INFO] [feelingBlessed] <-> ServerConnector [lobby] has connected
+19:29:00 [INFO] [feelingBlessed] disconnected with: [Kicked] Flying is not enabled on this server
+19:29:00 [INFO] [feelingBlessed] -> UpstreamBridge has disconnected
+19:29:00 [INFO] [feelingBlessed] <-> DownstreamBridge <-> [lobby] has disconnected
+19:29:31 [INFO] [feelingBlessed] <-> InitialHandler has connected
+19:29:31 [INFO] Player 'feelingBlessed' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+19:29:31 [INFO] Player 'feelingBlessed' [/127.0.0.1] is using a client at: 
+19:29:31 [INFO] [feelingBlessed] <-> ServerConnector [lobby] has connected
+19:29:38 [INFO] [feelingBlessed] disconnected with: [Kicked] Flying is not enabled on this server
+19:29:38 [INFO] [feelingBlessed] -> UpstreamBridge has disconnected
+19:29:38 [INFO] [feelingBlessed] <-> DownstreamBridge <-> [lobby] has disconnected
+19:29:40 [INFO] [feelingBlessed] <-> InitialHandler has connected
+19:29:40 [INFO] Player 'feelingBlessed' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+19:29:40 [INFO] Player 'feelingBlessed' [/127.0.0.1] is using a client at: 
+19:29:40 [INFO] [feelingBlessed] <-> ServerConnector [lobby] has connected
+19:29:47 [INFO] [feelingBlessed] disconnected with: [Kicked] Flying is not enabled on this server
+19:29:47 [INFO] [feelingBlessed] -> UpstreamBridge has disconnected
+19:29:47 [INFO] [feelingBlessed] <-> DownstreamBridge <-> [lobby] has disconnected
+19:32:34 [INFO] [feelingBlessed] <-> InitialHandler has connected
+19:32:34 [INFO] Player 'feelingBlessed' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+19:32:34 [INFO] Player 'feelingBlessed' [/127.0.0.1] is using a client at: 
+19:32:34 [INFO] [feelingBlessed] <-> ServerConnector [lobby] has connected
+19:32:44 [INFO] [feelingBlessed] disconnected with: [Kicked] Flying is not enabled on this server
+19:32:44 [INFO] [feelingBlessed] -> UpstreamBridge has disconnected
+19:32:44 [INFO] [feelingBlessed] <-> DownstreamBridge <-> [lobby] has disconnected
+19:32:51 [INFO] [feelingBlessed] <-> InitialHandler has connected
+19:32:51 [INFO] Player 'feelingBlessed' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+19:32:51 [INFO] Player 'feelingBlessed' [/127.0.0.1] is using a client at: 
+19:32:51 [INFO] [feelingBlessed] <-> ServerConnector [lobby] has connected
+19:33:11 [INFO] [feelingBlessed] disconnected with: [Kicked] Flying is not enabled on this server
+19:33:11 [INFO] [feelingBlessed] -> UpstreamBridge has disconnected
+19:33:11 [INFO] [feelingBlessed] <-> DownstreamBridge <-> [lobby] has disconnected
+19:33:13 [INFO] [feelingBlessed] <-> InitialHandler has connected
+19:33:13 [INFO] Player 'feelingBlessed' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+19:33:13 [INFO] Player 'feelingBlessed' [/127.0.0.1] is using a client at: 
+19:33:13 [INFO] [feelingBlessed] <-> ServerConnector [lobby] has connected
+19:36:35 [INFO] [feelingBlessed] -> UpstreamBridge has disconnected
+19:36:46 [INFO] [feelingBlessed] <-> InitialHandler has connected
+19:36:46 [INFO] Player 'feelingBlessed' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+19:36:46 [INFO] Player 'feelingBlessed' [/127.0.0.1] is using a client at: 
+19:36:46 [INFO] [feelingBlessed] <-> ServerConnector [lobby] has connected
+19:36:48 [INFO] [feelingBlessed] <-> DownstreamBridge <-> [lobby] has disconnected
+19:38:17 [INFO] [feelingBlessed] disconnected with: [Kicked] Flying is not enabled on this server
+19:38:17 [INFO] [feelingBlessed] -> UpstreamBridge has disconnected
+19:38:17 [INFO] [feelingBlessed] <-> DownstreamBridge <-> [lobby] has disconnected
+19:38:35 [INFO] [feelingBlessed] <-> InitialHandler has connected
+19:38:35 [INFO] Player 'feelingBlessed' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+19:38:35 [INFO] Player 'feelingBlessed' [/127.0.0.1] is using a client at: 
+19:38:35 [INFO] [feelingBlessed] <-> ServerConnector [lobby] has connected
+19:39:37 [INFO] [feelingBlessed] disconnected with: [Kicked] Flying is not enabled on this server
+19:39:37 [INFO] [feelingBlessed] -> UpstreamBridge has disconnected
+19:39:37 [INFO] [feelingBlessed] <-> DownstreamBridge <-> [lobby] has disconnected
+19:39:39 [INFO] [feelingBlessed] <-> InitialHandler has connected
+19:39:39 [INFO] Player 'feelingBlessed' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+19:39:39 [INFO] Player 'feelingBlessed' [/127.0.0.1] is using a client at: 
+19:39:39 [INFO] [feelingBlessed] <-> ServerConnector [lobby] has connected
+19:40:35 [INFO] [feelingBlessed] disconnected with: [Kicked] Flying is not enabled on this server
+19:40:35 [INFO] [feelingBlessed] -> UpstreamBridge has disconnected
+19:40:35 [INFO] [feelingBlessed] <-> DownstreamBridge <-> [lobby] has disconnected
+19:40:55 [INFO] [feelingBlessed] <-> InitialHandler has connected
+19:40:55 [INFO] Player 'feelingBlessed' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+19:40:55 [INFO] Player 'feelingBlessed' [/127.0.0.1] is using a client at: 
+19:40:55 [INFO] [feelingBlessed] <-> ServerConnector [lobby] has connected
+19:41:04 [INFO] [feelingBlessed] disconnected with: [Kicked] Flying is not enabled on this server
+19:41:04 [INFO] [feelingBlessed] -> UpstreamBridge has disconnected
+19:41:04 [INFO] [feelingBlessed] <-> DownstreamBridge <-> [lobby] has disconnected
+09:36:28 [INFO] Unable to initialize fancy terminal. To fix this on Windows, install the correct Microsoft Visual C++ 2008 Runtime
+09:36:28 [INFO] NOTE: This error is non crucial, and BungeeCord will still function correctly! Do not bug the author about it unless you are still unable to get it working
+09:36:28 [INFO] Enabled BungeeCord version unknown
+09:36:28 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+09:36:28 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+09:36:28 [INFO] Listening websockets on /0.0.0.0:25565
+09:36:28 [INFO] Listening on /127.11.0.1:60248
+09:36:28 [INFO] Server bans.txt changed, it will be reloaded automatically
+09:36:28 [INFO] Reload complete
+09:42:30 [INFO] [aroundThe] <-> InitialHandler has connected
+09:42:30 [INFO] Player 'aroundThe' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+09:42:30 [INFO] Player 'aroundThe' [/127.0.0.1] is using a client at: 
+09:42:30 [INFO] [aroundThe] <-> ServerConnector [lobby] has connected
+09:54:28 [INFO] [aroundThe] disconnected with: [Kicked] Flying is not enabled on this server
+09:54:28 [INFO] [aroundThe] -> UpstreamBridge has disconnected
+09:54:28 [INFO] [aroundThe] <-> DownstreamBridge <-> [lobby] has disconnected
+09:54:32 [INFO] [aroundThe] <-> InitialHandler has connected
+09:54:32 [INFO] Player 'aroundThe' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+09:54:32 [INFO] Player 'aroundThe' [/127.0.0.1] is using a client at: 
+09:54:32 [INFO] [aroundThe] <-> ServerConnector [lobby] has connected
+10:07:31 [INFO] [aroundThe] disconnected with: [Kicked] Flying is not enabled on this server
+10:07:31 [INFO] [aroundThe] -> UpstreamBridge has disconnected
+10:07:32 [INFO] [aroundThe] <-> DownstreamBridge <-> [lobby] has disconnected
+10:07:35 [INFO] [aroundThe] <-> InitialHandler has connected
+10:07:35 [INFO] Player 'aroundThe' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+10:07:35 [INFO] Player 'aroundThe' [/127.0.0.1] is using a client at: 
+10:07:35 [INFO] [aroundThe] <-> ServerConnector [lobby] has connected
+10:19:38 [INFO] [aroundThe] <-> InitialHandler has connected
+10:19:38 [INFO] Player 'aroundThe' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+10:19:38 [INFO] Player 'aroundThe' [/127.0.0.1] is using a client at: 
+10:19:58 [INFO] [feel] <-> InitialHandler has connected
+10:19:58 [INFO] Player 'feel' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+10:19:58 [INFO] Player 'feel' [/127.0.0.1] is using a client at: 
+10:19:58 [INFO] [feel] <-> ServerConnector [lobby] has connected
+10:20:23 [INFO] [feeling] <-> InitialHandler has connected
+10:20:23 [INFO] Player 'feeling' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+10:20:23 [INFO] Player 'feeling' [/127.0.0.1] is using a client at: 
+10:20:23 [INFO] [feeling] <-> ServerConnector [lobby] has connected
+10:21:23 [INFO] [good] <-> InitialHandler has connected
+10:21:23 [INFO] Player 'good' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+10:21:23 [INFO] Player 'good' [/127.0.0.1] is using a client at: 
+10:21:23 [INFO] [good] <-> ServerConnector [lobby] has connected
+10:21:48 [INFO] [like] <-> InitialHandler has connected
+10:21:48 [INFO] Player 'like' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+10:21:48 [INFO] Player 'like' [/127.0.0.1] is using a client at: 
+10:21:48 [INFO] [like] <-> ServerConnector [lobby] has connected
+10:22:06 [INFO] [good] -> UpstreamBridge has disconnected
+10:22:18 [INFO] [good] <-> InitialHandler has connected
+10:22:18 [INFO] Player 'good' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+10:22:18 [INFO] Player 'good' [/127.0.0.1] is using a client at: 
+10:22:18 [INFO] [good] <-> ServerConnector [lobby] has connected
+10:22:21 [INFO] [good] <-> DownstreamBridge <-> [lobby] has disconnected
+10:22:37 [INFO] [i] <-> InitialHandler has connected
+10:22:44 [INFO] [ogg] <-> InitialHandler has connected
+10:22:44 [INFO] Player 'ogg' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+10:22:44 [INFO] Player 'ogg' [/127.0.0.1] is using a client at: 
+10:22:44 [INFO] [ogg] <-> ServerConnector [lobby] has connected
+10:23:34 [INFO] [ong] <-> InitialHandler has connected
+10:23:34 [INFO] Player 'ong' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+10:23:34 [INFO] Player 'ong' [/127.0.0.1] is using a client at: 
+10:23:34 [INFO] [ong] <-> ServerConnector [lobby] has connected
+10:31:11 [INFO] [aroundThe] disconnected with: [Kicked] Internal server error
+10:31:11 [INFO] [aroundThe] -> UpstreamBridge has disconnected
+10:31:11 [INFO] [aroundThe] <-> DownstreamBridge <-> [lobby] has disconnected
+10:31:12 [INFO] [feel] disconnected with: [Kicked] Internal server error
+10:31:12 [INFO] [feel] -> UpstreamBridge has disconnected
+10:31:12 [INFO] [feel] <-> DownstreamBridge <-> [lobby] has disconnected
+10:31:16 [INFO] [feeling] disconnected with: [Kicked] Server closed
+10:31:16 [INFO] [feeling] -> UpstreamBridge has disconnected
+10:31:16 [INFO] [like] disconnected with: [Kicked] Server closed
+10:31:16 [INFO] [like] -> UpstreamBridge has disconnected
+10:31:16 [INFO] [feeling] <-> DownstreamBridge <-> [lobby] has disconnected
+10:31:16 [INFO] [like] <-> DownstreamBridge <-> [lobby] has disconnected
+10:31:16 [INFO] [good] disconnected with: [Kicked] Server closed
+10:31:16 [INFO] [good] -> UpstreamBridge has disconnected
+10:31:16 [INFO] [ogg] disconnected with: [Kicked] Server closed
+10:31:16 [INFO] [ong] disconnected with: [Kicked] Server closed
+10:31:16 [INFO] [ong] -> UpstreamBridge has disconnected
+10:31:16 [INFO] [ogg] -> UpstreamBridge has disconnected
+10:31:16 [INFO] [good] <-> DownstreamBridge <-> [lobby] has disconnected
+10:31:16 [INFO] [ong] <-> DownstreamBridge <-> [lobby] has disconnected
+10:31:16 [INFO] [ogg] <-> DownstreamBridge <-> [lobby] has disconnected
+17:12:24 [INFO] Unable to initialize fancy terminal. To fix this on Windows, install the correct Microsoft Visual C++ 2008 Runtime
+17:12:24 [INFO] NOTE: This error is non crucial, and BungeeCord will still function correctly! Do not bug the author about it unless you are still unable to get it working
+17:12:24 [INFO] Enabled BungeeCord version unknown
+17:12:25 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+17:12:25 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+17:12:25 [INFO] Listening websockets on /0.0.0.0:25565
+17:12:25 [INFO] Listening on /127.11.0.1:59222
+17:12:25 [INFO] Server bans.txt changed, it will be reloaded automatically
+17:12:25 [INFO] Reload complete
+17:12:54 [INFO] [HotMom83] <-> InitialHandler has connected
+17:12:54 [INFO] Player 'HotMom83' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+17:12:54 [INFO] Player 'HotMom83' [/127.0.0.1] is using a client at: 
+17:12:54 [INFO] [HotMom83] <-> ServerConnector [lobby] has connected
+17:13:20 [INFO] [HotMom83] -> UpstreamBridge has disconnected
+17:13:20 [INFO] [HotMom83] <-> DownstreamBridge <-> [lobby] has disconnected
+17:13:32 [INFO] [LateAlways] <-> InitialHandler has connected
+17:13:32 [INFO] Player 'LateAlways' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+17:13:32 [INFO] Player 'LateAlways' [/127.0.0.1] is using a client at: 
+17:13:32 [INFO] [LateAlways] <-> ServerConnector [lobby] has connected
+17:20:22 [INFO] [LateAlways] disconnected with: [Kicked] Server closed
+17:20:22 [INFO] [LateAlways] -> UpstreamBridge has disconnected
+17:20:22 [INFO] [LateAlways] <-> DownstreamBridge <-> [lobby] has disconnected
+17:21:03 [INFO] [LateAlways] <-> InitialHandler has connected
+17:21:03 [INFO] Player 'LateAlways' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+17:21:03 [INFO] Player 'LateAlways' [/127.0.0.1] is using a client at: 
+17:21:03 [INFO] [LateAlways] <-> ServerConnector [lobby] has connected
+17:35:40 [INFO] [LateAlways] -> UpstreamBridge has disconnected
+17:35:40 [INFO] [LateAlways] <-> DownstreamBridge <-> [lobby] has disconnected
+17:35:47 [INFO] [LateAlways] <-> InitialHandler has connected
+17:35:47 [INFO] Player 'LateAlways' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+17:35:47 [INFO] Player 'LateAlways' [/127.0.0.1] is using a client at: 
+17:35:47 [INFO] [LateAlways] <-> ServerConnector [lobby] has connected
+17:36:37 [INFO] [LateAlways] -> UpstreamBridge has disconnected
+17:36:37 [INFO] [LateAlways] <-> DownstreamBridge <-> [lobby] has disconnected
+17:36:39 [INFO] [LateAlways] <-> InitialHandler has connected
+17:36:39 [INFO] Player 'LateAlways' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+17:36:39 [INFO] Player 'LateAlways' [/127.0.0.1] is using a client at: 
+17:36:39 [INFO] [LateAlways] <-> ServerConnector [lobby] has connected
+17:36:49 [INFO] [LateAlways] -> UpstreamBridge has disconnected
+17:36:49 [INFO] [LateAlways] <-> DownstreamBridge <-> [lobby] has disconnected
+17:36:50 [INFO] [LateAlways] <-> InitialHandler has connected
+17:36:50 [INFO] Player 'LateAlways' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+17:36:50 [INFO] Player 'LateAlways' [/127.0.0.1] is using a client at: 
+17:36:50 [INFO] [LateAlways] <-> ServerConnector [lobby] has connected
+17:37:06 [INFO] [LateAlways] -> UpstreamBridge has disconnected
+17:37:06 [INFO] [LateAlways] <-> DownstreamBridge <-> [lobby] has disconnected
+17:37:08 [INFO] [LateAlways] <-> InitialHandler has connected
+17:37:08 [INFO] Player 'LateAlways' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+17:37:08 [INFO] Player 'LateAlways' [/127.0.0.1] is using a client at: 
+17:37:08 [INFO] [LateAlways] <-> ServerConnector [lobby] has connected
+17:37:17 [INFO] [LateAlways] -> UpstreamBridge has disconnected
+17:37:17 [INFO] [LateAlways] <-> DownstreamBridge <-> [lobby] has disconnected
+17:37:18 [INFO] [LateAlways] <-> InitialHandler has connected
+17:37:18 [INFO] Player 'LateAlways' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+17:37:18 [INFO] Player 'LateAlways' [/127.0.0.1] is using a client at: 
+17:37:18 [INFO] [LateAlways] <-> ServerConnector [lobby] has connected
+17:38:47 [INFO] [LateAlways] -> UpstreamBridge has disconnected
+17:38:47 [INFO] [LateAlways] <-> DownstreamBridge <-> [lobby] has disconnected
+17:38:51 [INFO] [LateAlways] <-> InitialHandler has connected
+17:38:51 [INFO] Player 'LateAlways' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+17:38:51 [INFO] Player 'LateAlways' [/127.0.0.1] is using a client at: 
+17:38:51 [INFO] [LateAlways] <-> ServerConnector [lobby] has connected
+17:43:11 [INFO] [LateAlways] disconnected with: [Kicked] Internal server error
+17:43:11 [INFO] [LateAlways] -> UpstreamBridge has disconnected
+17:43:11 [INFO] [LateAlways] <-> DownstreamBridge <-> [lobby] has disconnected
+17:43:13 [INFO] [LateAlways] <-> InitialHandler has connected
+17:43:13 [INFO] Player 'LateAlways' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+17:43:13 [INFO] Player 'LateAlways' [/127.0.0.1] is using a client at: 
+17:43:13 [INFO] [LateAlways] <-> ServerConnector [lobby] has connected
+17:44:48 [INFO] [LateAlways] -> UpstreamBridge has disconnected
+17:44:48 [INFO] [LateAlways] <-> DownstreamBridge <-> [lobby] has disconnected
+17:44:50 [INFO] [LateAlways] <-> InitialHandler has connected
+17:44:50 [INFO] Player 'LateAlways' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+17:44:50 [INFO] Player 'LateAlways' [/127.0.0.1] is using a client at: 
+17:44:50 [INFO] [LateAlways] <-> ServerConnector [lobby] has connected
+17:45:38 [INFO] [LateAlways] disconnected with: [Kicked] Internal server error
+17:45:38 [INFO] [LateAlways] -> UpstreamBridge has disconnected
+17:45:38 [INFO] [LateAlways] <-> DownstreamBridge <-> [lobby] has disconnected
+17:45:56 [INFO] [LateAlways] <-> InitialHandler has connected
+17:45:56 [INFO] Player 'LateAlways' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+17:45:56 [INFO] Player 'LateAlways' [/127.0.0.1] is using a client at: 
+17:45:56 [INFO] [LateAlways] <-> ServerConnector [lobby] has connected
+17:47:55 [INFO] [LateAlways] disconnected with: [Kicked] Internal server error
+17:47:55 [INFO] [LateAlways] -> UpstreamBridge has disconnected
+17:47:55 [INFO] [LateAlways] <-> DownstreamBridge <-> [lobby] has disconnected
+17:47:57 [INFO] [LateAlways] <-> InitialHandler has connected
+17:47:57 [INFO] Player 'LateAlways' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+17:47:57 [INFO] Player 'LateAlways' [/127.0.0.1] is using a client at: 
+17:47:57 [INFO] [LateAlways] <-> ServerConnector [lobby] has connected
+17:53:27 [INFO] [LateAlways] -> UpstreamBridge has disconnected
+17:53:27 [INFO] [LateAlways] <-> DownstreamBridge <-> [lobby] has disconnected
+17:53:41 [INFO] [LateAlways] <-> InitialHandler has connected
+17:53:41 [INFO] Player 'LateAlways' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+17:53:41 [INFO] Player 'LateAlways' [/127.0.0.1] is using a client at: 
+17:53:41 [INFO] [LateAlways] <-> ServerConnector [lobby] has connected
+18:04:19 [INFO] [LateAlways] -> UpstreamBridge has disconnected
+18:04:19 [INFO] [LateAlways] <-> DownstreamBridge <-> [lobby] has disconnected
